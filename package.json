@@ -1,0 +1,24 @@
+{
+  "name": "akf-promise",
+  "version": "1.0.1",
+  "description": "Sözleri verince tutun",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akif9748/akf-promise.git"
+  },
+  "keywords": [
+    "Söz",
+    "tutmak"
+  ],
+  "author": "Akif9748",
+  "license": "MIT",
+  "types": "./index.d.ts",
+  "bugs": {
+    "url": "https://github.com/Akif9748/akf-promise/issues"
+  },
+  "homepage": "https://github.com/Akif9748/akf-promise#readme"
+}
